@@ -36,12 +36,7 @@ Make sure you have the following installed:
     npm install
     ```
 
-3. Create a `.env` file in the `server` directory and add the following:
-    ```env
-PORT=
-MONGO_URL=
-JWT_SECRET=
-    ```
+3. Create a `.env` file in the `server` directory and add the following: ```env MONGO_URL=mongodb://localhost:27017/ PORT=8001 ```
 
 ### Frontend Setup
 
