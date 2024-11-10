@@ -84,13 +84,15 @@ Running the Project
 Start the Backend Server
 Navigate to the server directory and run:
 
-bash
+```bash
 npm run dev
+```
 This will start the backend server on http://localhost:8001.
 
 Start the Frontend
 Navigate to the client directory and run:
 
-bash
+```bash
 npm start
+```
 This will start the frontend development server on http://localhost:3000.
